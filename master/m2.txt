@@ -7,7 +7,10 @@
 // Look at branches:
 // git branch
 
+// Rename main branch to master branch
+// git branch -m main master
+
 // Pushing another commit:
 // git add . 
 // git commit -m "added more notes to m2.txt" 
-// git push -f origin main 
+// git push -f origin master
