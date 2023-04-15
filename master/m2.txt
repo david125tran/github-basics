@@ -3,3 +3,11 @@
 // git add . 
 // git commit -m "m2.txt" 
 // git push -f origin main 
+
+// Look at branches:
+// git branch
+
+// Pushing another commit:
+// git add . 
+// git commit -m "added more notes to m2.txt" 
+// git push -f origin main 
