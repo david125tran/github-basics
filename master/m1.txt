@@ -1,3 +1,18 @@
 // To initilize local Git repository in terminal:
 // git init 
 
+// Then add everything:
+// git add .
+
+// Add a message:
+// git commit -m "m1 added"
+
+// Look at the branches:
+// git branch 
+
+// Clear terminal:
+// cls 
+
+// Push repository to GitHub:
+// git remote add origin https://github.com/david125tran/github-basics.git
+// git push -f origin main (Use -f to do a "force push")
