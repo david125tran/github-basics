@@ -12,7 +12,3 @@
 
 // Clear terminal:
 // cls 
-
-// Push repository to GitHub:
-// git remote add origin https://github.com/david125tran/github-basics.git
-// git push -f origin main (Use -f to do a "force push")
