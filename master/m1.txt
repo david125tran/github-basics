@@ -1,0 +1,3 @@
+// To initilize local Git repository in terminal:
+// git init 
+
