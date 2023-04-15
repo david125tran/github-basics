@@ -14,3 +14,7 @@
 // git add . 
 // git commit -m "added more notes to m2.txt" 
 // git push -f origin master
+
+// Create new local branch
+// git checkout -b feature
+
