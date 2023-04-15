@@ -2,3 +2,6 @@
 // git add . 
 // git commit -m "created feature branch" 
 // git push -f origin feature
+
+// Update latest git state after creating feature remote branch on GitHub
+// git fetch
